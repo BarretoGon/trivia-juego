@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-slate-950 text-slate-100 font-sans antialiased min-h-screen select-none overflow-x-hidden;
+  }
+}
+
+/* Animaciones personalizadas */
+@keyframes pulse-fast {
+  0%,
+  100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.04);
+  }
+}
+
+.animate-pulse-fast {
+  animation: pulse-fast 1s infinite ease-in-out;
+}

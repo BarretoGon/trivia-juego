@@ -1,0 +1,1352 @@
+[
+  {
+    "pregunta": "¿Aproximadamente cuántos huesos tiene un recién nacido en comparación con un adulto (que tiene 206)?",
+    "opciones": [
+      "Alrededor de 240",
+      "Alrededor de 270 a 300",
+      "Alrededor de 180",
+      "Alrededor de 350 a 380"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Hacia qué semana aproximada de gestación se forman los patrones definitivos de las huellas dactilares del feto?",
+    "opciones": [
+      "Semana 10 a 12",
+      "Semana 17 a 20",
+      "Semana 26 a 28",
+      "Semana 32 a 34"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estructura anatómica del feto permite que la mayor parte de la sangre evite los pulmones y pase directo a la aorta?",
+    "opciones": [
+      "El foramen oval",
+      "El conducto arterioso (ductus arteriosus)",
+      "El saco vitelino",
+      "El conducto venoso"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el primer sentido que el feto desarrolla plenamente dentro del útero materno?",
+    "opciones": ["El oído", "El tacto", "El gusto", "El olfato"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué sustancia cerosa blanquecina recubre y protege la piel del feto del líquido amniótico en el vientre?",
+    "opciones": ["Meconio", "Vérnix caseosa", "Lanugo", "Calostro"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad promedio comienzan a brotar los primeros dientes de leche (generalmente los incisivos centrales inferiores)?",
+    "opciones": [
+      "Entre los 3 y 4 meses",
+      "Entre los 6 y 8 meses",
+      "Entre los 9 y 11 meses",
+      "Al cumplir exactamente 1 año"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué los recién nacidos durante sus primeras semanas de vida no producen lágrimas visibles al llorar?",
+    "opciones": [
+      "Porque sus ojos no toleran la salinidad",
+      "Porque sus conductos lagrimales aún están en desarrollo",
+      "Porque parpadean mucho menos",
+      "Porque no tienen el reflejo de parpadeo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué evalúa la prueba de Apgar realizada al primer y quinto minuto de vida del recién nacido?",
+    "opciones": [
+      "Frecuencia cardíaca, respiración, tono muscular, reflejos y color de piel",
+      "Peso, estatura, perímetro cefálico, reflejos y visión",
+      "Capacidad auditiva, respiración, dilatación pupilar y masa corporal",
+      "Frecuencia cardíaca, temperatura corporal, reflejo de marcha y peso"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿En qué consiste el reflejo neonatal conocido como 'reflejo de Moro'?",
+    "opciones": [
+      "Girar la cabeza y abrir la boca al rozar su mejilla",
+      "Sobresalto y apertura de brazos ante una sensación de caída o ruido repentino",
+      "Cerrar con fuerza el puño cuando tocan la palma de su mano",
+      "Mover las piernas como si caminara cuando sus pies tocan una superficie"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuántos centímetros de dilatación cervical completa se necesitan en el cuello uterino para iniciar la fase expulsiva del parto?",
+    "opciones": [
+      "8 centímetros",
+      "10 centímetros",
+      "12 centímetros",
+      "15 centímetros"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Aproximadamente cuántas horas en total duerme un recién nacido promedio durante las 24 horas del día?",
+    "opciones": [
+      "De 10 a 12 horas",
+      "De 14 a 17 horas",
+      "De 18 a 21 horas",
+      "De 8 a 10 horas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué porcentaje del peso corporal de un recién nacido representa aproximadamente su cabeza?",
+    "opciones": [
+      "Cerca del 10%",
+      "Cerca del 15%",
+      "Cerca del 25%",
+      "Cerca del 35%"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿A qué distancia visual óptima puede enfocar nítidamente la mirada un recién nacido durante su primer mes?",
+    "opciones": [
+      "A solo 5 a 10 cm",
+      "A 20 a 30 cm (distancia al rostro materno)",
+      "A 50 a 60 cm",
+      "A más de 1 metro"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la primera deposición fecal del bebé compuesta por líquido amniótico, moco y bilis?",
+    "opciones": ["Lanugo", "Meconio", "Lóquios", "Calostro"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Hacia qué mes de vida suele cerrarse por completo la fontanela anterior (la 'mollera' superior de la cabeza)?",
+    "opciones": [
+      "Entre los 2 y 4 meses",
+      "Entre los 6 y 8 meses",
+      "Entre los 12 y 18 meses",
+      "A los 24 a 30 meses"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hormona es la principal responsable de desencadenar y coordinar las contracciones del parto y la bajada de leche?",
+    "opciones": ["Prolactina", "Progesterona", "Oxitocina", "Estrógeno"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿En qué semana de gestación suele realizarse comúnmente la ecografía morfológica estructural para revisar órganos y sexo fetal?",
+    "opciones": [
+      "Semana 11 a 14",
+      "Semana 18 a 22",
+      "Semana 26 a 28",
+      "Semana 32 a 34"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la primera 'leche' densa, amarillenta y rica en anticuerpos que produce la madre tras dar a luz?",
+    "opciones": [
+      "Leche de transición",
+      "Calostro",
+      "Leche madura",
+      "Suero lácteo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué es normal que los recién nacidos pierdan peso durante los primeros 3 a 5 días de vida?",
+    "opciones": [
+      "Por pérdida fisiológica de líquidos corporales acumulados",
+      "Porque su estómago rechaza la primera leche",
+      "Por gasto calórico excesivo al regular su temperatura",
+      "Por adaptación inmediata de sus músculos respiratorios"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué porcentaje aproximado de pérdida de peso se considera normal y seguro en un recién nacido durante su primera semana?",
+    "opciones": [
+      "Hasta el 3%",
+      "Entre el 5% y 10%",
+      "Entre el 12% y 15%",
+      "Más del 18%"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la posición recomendada internacionalmente por pediatras para dormir a un bebé y prevenir el SMSL (Muerte Súbita)?",
+    "opciones": [
+      "Boca abajo (prono)",
+      "De costado con apoyo",
+      "Boca arriba (supino)",
+      "Semi-inclinado a 45 grados"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué hormona detectan las pruebas rápidas de embarazo en orina de farmacia?",
+    "opciones": [
+      "Estradiol",
+      "Gonadotropina coriónica humana (hCG)",
+      "Lactógeno placentario humano (hPL)",
+      "Progesterona sérica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuántos vasos sanguíneos contiene normalmente un cordón umbilical sano?",
+    "opciones": [
+      "1 vena y 1 arteria",
+      "2 venas y 1 arteria",
+      "2 arterias y 1 vena",
+      "2 arterias y 2 venas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Hacia qué semana de gestación el corazón de un embrión comienza a latir por primera vez?",
+    "opciones": [
+      "Hacia la semana 5 a 6",
+      "Hacia la semana 9 a 10",
+      "Hacia la semana 12 a 13",
+      "Hacia la semana 3"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué vello fino y suave recubre el cuerpo del feto durante el segundo trimestre y suele caer antes del parto?",
+    "opciones": ["Vérnix", "Lanugo", "Pelusa folicular", "Milium"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la frecuencia cardíaca promedio en reposo de un recién nacido a término sano?",
+    "opciones": [
+      "60 a 80 latidos por minuto",
+      "90 a 110 latidos por minuto",
+      "120 a 160 latidos por minuto",
+      "180 a 210 latidos por minuto"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿A qué se debe la coloración amarillenta (ictericia) que presentan muchos recién nacidos en sus primeros días?",
+    "opciones": [
+      "Exceso de hierro en la leche",
+      "Acumulación transitoria de bilirrubina en sangre",
+      "Incompatibilidad con el pH del aire",
+      "Falta de vitamina C en el organismo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el tamaño aproximado del estómago de un recién nacido en su primer día de vida?",
+    "opciones": [
+      "Del tamaño de una uva o cereza (5 a 7 ml)",
+      "Del tamaño de un huevo de gallina (40 a 50 ml)",
+      "Del tamaño de una manzana pequeña (80 ml)",
+      "Del tamaño de una pelota de golf (25 ml)"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué es la 'regla de Naegele' utilizada en obstetricia?",
+    "opciones": [
+      "Una fórmula para calcular la fecha probable de parto (FPP)",
+      "Un cálculo para determinar el peso del feto según la altura uterina",
+      "Una escala para medir la frecuencia de contracciones",
+      "Un método para evaluar la madurez pulmonar fetal"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué nombre reciben las contracciones de entrenamiento no dolorosas que la madre siente desde el segundo trimestre?",
+    "opciones": [
+      "Contracciones de Ferguson",
+      "Contracciones de Braxton Hicks",
+      "Contracciones de Apgar",
+      "Contracciones de Valsalva"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad promedio los bebés comienzan a emitir su primera sonrisa social intencionada ante estímulos humanos?",
+    "opciones": [
+      "Durante las primeras 48 horas",
+      "Entre las 6 y 8 semanas",
+      "A partir del 5° mes",
+      "Al 9° mes"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué vitamina se administra a todos los recién nacidos en sus primeras horas para prevenir la enfermedad hemorrágica?",
+    "opciones": ["Vitamina D", "Vitamina A", "Vitamina K", "Vitamina C"],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuánto tiempo suele tardar en desprenderse naturalmente el muñón del cordón umbilical tras el nacimiento?",
+    "opciones": [
+      "Entre 2 y 4 días",
+      "Entre 7 y 21 días (1 a 3 semanas)",
+      "Exactamente al mes de vida",
+      "A las 48 horas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué reflejo hace que un bebé gire su cabeza hacia el estímulo cuando se le roza la comisura del labio o la mejilla?",
+    "opciones": [
+      "Reflejo de succión",
+      "Reflejo de prensión palmar",
+      "Reflejo de búsqueda o deglución",
+      "Reflejo de Babinski"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cómo reacciona un bebé con el reflejo de Babinski cuando se le estimula la planta del pie?",
+    "opciones": [
+      "Flexiona todos los dedos hacia abajo con fuerza",
+      "El dedo gordo se eleva y los demás dedos se abren en abanico",
+      "Retira la pierna bruscamente hacia el pecho",
+      "Gira el tobillo hacia adentro"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué sabor muestran preferencia innata inmediata los bebés al nacer?",
+    "opciones": [
+      "Al sabor salado",
+      "Al sabor dulce",
+      "Al sabor ácido",
+      "Al sabor neutro"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Hasta qué edad recomienda la Organización Mundial de la Salud (OMS) la lactancia materna exclusiva sin otros alimentos ni agua?",
+    "opciones": [
+      "Hasta los 4 meses",
+      "Hasta los 6 meses",
+      "Hasta los 9 meses",
+      "Hasta los 12 meses"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué trimestre del embarazo se transmite la mayor cantidad de anticuerpos maternos (IgG) al feto a través de la placenta?",
+    "opciones": [
+      "Primer trimestre",
+      "Segundo trimestre",
+      "Tercer trimestre (últimas semanas)",
+      "Durante las primeras 2 horas del parto"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué cambio anatómico temporal sufren las rodillas del bebé al nacer?",
+    "opciones": [
+      "No tienen rótulas totalmente osificadas, sino cartílago blando",
+      "Tienen dos rótulas separadas por pierna",
+      "Tienen los ligamentos cruzados fusionados",
+      "La articulación de la rodilla permanece invertida"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Aproximadamente cuántas veces por minuto respira un recién nacido en estado de reposo?",
+    "opciones": [
+      "12 a 16 respiraciones por minuto",
+      "20 a 25 respiraciones por minuto",
+      "40 a 60 respiraciones por minuto",
+      "70 a 90 respiraciones por minuto"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué examen de cribado auditivo temprano se realiza en hospitales mediante sonidos suaves para evaluar la respuesta del oído interno?",
+    "opciones": [
+      "Audiometría tonal",
+      "Emisiones otoacústicas (EOA)",
+      "Timpanometría refleja",
+      "Potenciales somatosensoriales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la causa médica más frecuente de los cólicos del lactante durante los primeros tres meses?",
+    "opciones": [
+      "Alergia hereditaria al polen",
+      "Inmadurez del sistema digestivo y acumulación de gases/sobreestimulación",
+      "Infección bacteriana en la flora intestinal",
+      "Exceso de vitamina D materna"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué son los 'miliums' o granitos blanquecinos que aparecen en la nariz y mejillas de muchos recién nacidos?",
+    "opciones": [
+      "Alergia a las telas del pañal",
+      "Pequeños quistes benignos de queratina y glándulas sebáceas en maduración",
+      "Manchas solares intrauterinas",
+      "Infección dérmica por hongos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A partir de qué semana de gestación un feto comienza a oír ruidos biológicos internos (como los latidos de la madre)?",
+    "opciones": [
+      "Semana 8 a 10",
+      "Semana 18 a 20",
+      "Semana 28 a 30",
+      "Semana 34 a 36"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Aproximadamente cuánto líquido amniótico rodea al feto hacia la semana 36 de gestación?",
+    "opciones": [
+      "Entre 100 y 200 ml",
+      "Entre 800 y 1000 ml (aproximadamente un litro)",
+      "Entre 2500 y 3000 ml",
+      "Menos de 50 ml"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es la 'mancha mongólica' o mancha de Baltz presente en muchos bebés al nacer?",
+    "opciones": [
+      "Una mancha gris-azulada benigna en la región lumbar o glúteos debida a melanocitos profundos",
+      "Una marca de presión de los huesos de la pelvis materna",
+      "Una irritación temporal por contacto con el meconio",
+      "Un lunar vascular que requiere tratamiento con láser"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué función primordial cumplen las fontanelas ('molleras') abiertas del cráneo en el nacimiento?",
+    "opciones": [
+      "Permitir que los huesos craneales se superpongan en el canal de parto y dar espacio al cerebro para crecer",
+      "Facilitar la oxigenación directa del tejido cerebral fetal",
+      "Regular la temperatura corporal durante las primeras horas",
+      "Servir de punto de anclaje para los músculos del cuello"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿A qué edad promedio los bebés suelen lograr sentarse por sí mismos sin apoyo?",
+    "opciones": [
+      "Entre los 3 y 4 meses",
+      "Entre los 6 y 8 meses",
+      "Entre los 10 y 12 meses",
+      "A los 14 meses"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A partir de qué mes suele aparecer la 'angustia de separación' o temor a los desconocidos en el lactante?",
+    "opciones": [
+      "Al 2° mes",
+      "Entre el 7° y 9° mes",
+      "Al cumplir los 18 meses",
+      "A las dos semanas de nacer"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué los recién nacidos estornudan con frecuencia aunque no estén resfriados?",
+    "opciones": [
+      "Por alergia al oxígeno exterior",
+      "Es su única forma fisiológica de limpiar sus pequeños conductos nasales de pelusas y mucosidad",
+      "Por enfriamiento rápido de las vías aéreas",
+      "Por falta de defensas contra el polvo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el rango normal de aumento de peso promedio semanal de un bebé en sus primeros tres meses de vida?",
+    "opciones": [
+      "50 a 80 gramos por semana",
+      "150 a 210 gramos por semana",
+      "350 a 450 gramos por semana",
+      "500 a 600 gramos por semana"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama el primer sangrado y flujo vaginal postparto que la madre expulsa durante las semanas siguientes al parto?",
+    "opciones": ["Lóquios", "Meconio", "Entuertos", "Amnios"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué son los 'entuertos' experimentados por la madre en los primeros días tras dar a luz?",
+    "opciones": [
+      "Contracciones del útero para volver a su tamaño original y evitar hemorragias",
+      "Espasmos del músculo diafragma al bajar la presión abdominal",
+      "Puntadas en las mamas previas a la bajada de leche",
+      "Inflamación articular de las caderas"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Aproximadamente cuántos pañales desechables promedio ensucia un recién nacido durante su primer mes?",
+    "opciones": [
+      "Entre 80 y 100 pañales",
+      "Entre 200 y 300 pañales (8 a 10 por día)",
+      "Entre 450 y 550 pañales",
+      "Menos de 60 pañales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A partir de qué edad la Academia Americana de Pediatría recomienda iniciar la introducción de alimentos sólidos (alimentación complementaria)?",
+    "opciones": [
+      "A los 3 meses",
+      "A los 4 meses cumplidos",
+      "A los 6 meses de vida",
+      "Al año de edad"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes alimentos está TERMINANTEMENTE contraindicado en menores de 1 año por riesgo de botulismo infantil?",
+    "opciones": [
+      "La miel de abeja",
+      "El yogur natural",
+      "La banana madura",
+      "La avena en papilla"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Por qué no se debe dar leche de vaca entera común como bebida principal antes de cumplir el año de edad?",
+    "opciones": [
+      "Porque provoca caries inmediatas",
+      "Porque tiene exceso de proteínas y minerales que sobrecargan los riñones inmaduros del bebé",
+      "Porque destruye la flora del estómago",
+      "Porque contiene demasiada agua y no alimenta"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué determina genéticamente el sexo cromosómico del bebé (XX o XY) en el momento de la fecundación?",
+    "opciones": [
+      "El óvulo materno",
+      "El espermatozoide paterno (aportando X o Y)",
+      "La temperatura del útero en la ovulación",
+      "El día del ciclo menstrual en que ocurre el coito"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hito del desarrollo motor fino suele aparecer entre los 9 y 12 meses de edad?",
+    "opciones": [
+      "El agarre palmar reflejo",
+      "La pinza digital (uso coordinado de dedo pulgar e índice)",
+      "El uso de cubiertos con agarre trípode",
+      "Dibujar trazos circulares"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué consiste el método canguro o contacto 'piel con piel' inmediato tras el nacimiento?",
+    "opciones": [
+      "Bañar al bebé de inmediato con agua tibia",
+      "Colocar al recién nacido desnudo sobre el pecho descubierto de la madre para estabilizar temperatura, ritmo cardíaco y vínculo",
+      "Envolver al bebé firmemente en mantas térmicas dentro de la cuna",
+      "Sostener al bebé boca abajo para expulsar flemas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué ocurre con el color de ojos con el que nacen muchos bebés de tez clara durante su primer año?",
+    "opciones": [
+      "Se vuelve blanco brillante",
+      "Puede oscurecerse a medida que los melanocitos del iris producen melanina estimulados por la luz",
+      "Permanece idéntico para siempre desde las primeras 24 horas",
+      "Cambia de tonalidad según su estado de ánimo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la capacidad del estómago de un bebé hacia el primer mes de vida?",
+    "opciones": [
+      "Entre 10 y 15 ml",
+      "Entre 80 y 150 ml",
+      "Entre 300 y 400 ml",
+      "Más de 500 ml"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué los pediatras desaconsejan enfáticamente el uso de andadores tradicionales con ruedas en bebés?",
+    "opciones": [
+      "Porque no caben por las puertas",
+      "Por alto riesgo de caídas graves/accidentes y porque altera el patrón biomecánico natural de marcha",
+      "Porque los bebés se vuelven perezosos para hablar",
+      "Porque aumentan la miopía infantil"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es la 'costra láctea' común en el cuero cabelludo de los lactantes?",
+    "opciones": [
+      "Una infección por hongos transmitida por la leche",
+      "Dermatitis seborreica infantil benigna por hiperactividad temporal de glándulas sebáceas",
+      "Reacción alérgica al champú infantil",
+      "Quemadura por roce con la sábana"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué se debe que los bebés tengan una gran flexibilidad articular y puedan meterse fácilmente los pies en la boca?",
+    "opciones": [
+      "A que sus articulaciones no tienen ligamentos",
+      "A que sus ligamentos son más elásticos y gran parte de sus huesos aún son cartílago flexible",
+      "A que carecen de columna vertebral osificada",
+      "A que su centro de gravedad está en la cabeza"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Hacia qué mes de gestación suelen empezar a percibir los primeros movimientos fetales las madres primerizas?",
+    "opciones": [
+      "Hacia la semana 8 a 10",
+      "Entre la semana 18 y 22",
+      "En la semana 12 exacta",
+      "Recién en la semana 30"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cómo se llama la primera etapa del trabajo de parto previa a la dilatación activa donde el cuello uterino se acorta y adelgaza?",
+    "opciones": [
+      "Borramiento cervical",
+      "Alumbramiento",
+      "Encajamiento fetal",
+      "Período de expulsión"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué se expulsa durante la tercera fase del parto, denominada 'alumbramiento'?",
+    "opciones": [
+      "El tapón mucoso",
+      "La cabeza del bebé",
+      "La placenta y las membranas ovulares",
+      "El primer líquido amniótico"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Por qué los bebés suelen tener hipo con tanta frecuencia en sus primeros meses?",
+    "opciones": [
+      "Por tener frío en el estómago",
+      "Por inmadurez del nervio frénico que inerva el diafragma y deglución de aire al mamar",
+      "Porque están por tener fiebre",
+      "Por alergia a los componentes de la saliva"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad promedio los bebés comienzan habitualmente a balbucear cadenas de sílabas repetitivas (como 'ba-ba-ba' o 'ma-ma-ma')?",
+    "opciones": [
+      "A las 4 semanas",
+      "Entre los 6 y 8 meses",
+      "A los 15 meses",
+      "A los 2 meses"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué porcentaje del sueño de un recién nacido corresponde a la fase REM (sueño activo esencial para el desarrollo cerebral)?",
+    "opciones": [
+      "Apenas el 15%",
+      "Cerca del 50%",
+      "Más del 90%",
+      "Menos del 5%"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la recomendación actual de seguridad en el auto respecto a las butacas infantiles (huevitos)?",
+    "opciones": [
+      "Mirando hacia adelante desde el primer mes",
+      "A contramarcha (mirando hacia atrás) el mayor tiempo posible (mínimo hasta los 2 o 4 años)",
+      "En el asiento del acompañante con airbag activo",
+      "Con el cinturón de 2 puntos del auto únicamente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué temperatura aproximada se considera fiebre en un bebé menor de 3 meses que amerita consulta médica inmediata?",
+    "opciones": [
+      "37.0 °C axilar",
+      "37.5 °C axilar",
+      "38.0 °C rectal/axilar o más",
+      "39.5 °C exclusivamente"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Por qué los recién nacidos tienen las manos y los pies fríos o ligeramente azulados (acrocianosis) con frecuencia?",
+    "opciones": [
+      "Por hipotermia grave",
+      "Por inmadurez de su sistema circulatorio periférico que prioriza los órganos vitales",
+      "Por falta de glóbulos rojos",
+      "Por deshidratación aguda"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué postura corporal mantiene naturalmente un recién nacido a término sano debido a su tono muscular fisiológico?",
+    "opciones": [
+      "Extensión total de brazos y piernas abiertas",
+      "Flexión de brazos y piernas hacia el torso (postura fetal)",
+      "Brazos caídos a los costados y cuello arqueado hacia atrás",
+      "Giro continuo hacia el lado izquierdo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué distancia aproximada pueden escuchar sonidos los bebés desde dentro del vientre en el tercer trimestre?",
+    "opciones": [
+      "No escuchan absolutamente nada por el líquido amniótico",
+      "Pueden escuchar la voz materna y sonidos intensos del entorno exterior atenuados",
+      "Solo escuchan frecuencias ultrasónicas",
+      "Solo escuchan el latido del cordón"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué elemento esencial para el desarrollo del tubo neural del feto (espina bífida) se suplementa antes y durante el primer trimestre del embarazo?",
+    "opciones": [
+      "Vitamina C",
+      "Ácido fólico (Vitamina B9)",
+      "Calcio concentrado",
+      "Vitamina E"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hormona es la causante principal de relajar los ligamentos pélvicos de la madre para preparar el canal de parto?",
+    "opciones": ["Relaxina", "Prolactina", "Oxitocina", "Melatonina"],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuál es la causa habitual de la línea oscura (línea alba/nigra) que aparece en el abdomen de muchas embarazadas?",
+    "opciones": [
+      "Aumento de melanocitos estimulados por los cambios hormonales del embarazo",
+      "Tensión muscular de los rectos abdominales",
+      "Fricción con la ropa materna",
+      "Retención de sales biliares"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿A qué se debe el llamado 'reflejo tónico del cuello' o 'postura de esgrimista' en el lactante?",
+    "opciones": [
+      "A una contractura muscular congénita",
+      "A un reflejo primitivo donde al girar la cabeza a un lado, extiende el brazo de ese lado y flexiona el opuesto",
+      "A una búsqueda de apoyo para sentarse",
+      "A dolor de oído en el lado que mira"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad promedio la mayoría de los bebés comienzan a dar sus primeros pasos independientes sin sostenerse?",
+    "opciones": [
+      "A los 6 meses",
+      "Entre los 11 y 15 meses",
+      "A los 20 meses",
+      "A los 8 meses estrictos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la función del 'tummy time' (tiempo boca abajo supervisado) en bebés despiertos?",
+    "opciones": [
+      "Acelerar la digestión de la leche materna",
+      "Fortalecer los músculos del cuello, hombros y espalda y prevenir la plagiocefalia (cabeza plana)",
+      "Evitar que el bebé duerma de más",
+      "Enseñar al bebé a gatear antes del 3° mes"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué fenómeno visual ocurre en los recién nacidos debido a la falta de coordinación binocular en sus primeros dos meses?",
+    "opciones": [
+      "Ceguera total a la luz brillante",
+      "Estrabismo fisiológico intermitente (ojos que parecen cruzarse momentáneamente)",
+      "Visión invertida permanente",
+      "Incapacidad de cerrar los párpados"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A partir de qué semana de gestación un feto ya tiene formadas las papilas gustativas y traga líquido amniótico con sabores de la dieta materna?",
+    "opciones": [
+      "Semana 6 a 8",
+      "Semana 14 a 16",
+      "Semana 28 a 30",
+      "Semana 36"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es el peso promedio de un recién nacido a término sano en Latinoamérica?",
+    "opciones": [
+      "Entre 1.8 y 2.3 kg",
+      "Entre 2.8 y 3.8 kg",
+      "Entre 4.5 y 5.5 kg",
+      "Exactamente 4.0 kg"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué estructura de la placenta actúa como barrera selectiva e intercambio de nutrientes y gases entre la sangre materna y fetal sin mezclarlas?",
+    "opciones": [
+      "Las vellosidades coriónicas",
+      "El amnios exterior",
+      "El alantoides",
+      "El corion liso"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué porcentaje aproximado de mujeres da a luz exactamente en su Fecha Probable de Parto (FPP)?",
+    "opciones": [
+      "Alrededor del 4% al 5%",
+      "Cerca del 35%",
+      "Más del 60%",
+      "Casi el 80%"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué produce la hormona prolactina en el cuerpo de la madre?",
+    "opciones": [
+      "Las contracciones del parto",
+      "La síntesis y producción de leche en los alvéolos mamarios",
+      "La dilatación del cuello uterino",
+      "El cierre de la sínfisis púbica"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿En qué consiste el reflejo de prensión palmar de un recién nacido?",
+    "opciones": [
+      "Abre los dedos si le tocan la palma",
+      "Aprieta con tanta fuerza los dedos sobre un objeto que podría sostener casi su propio peso",
+      "Extiende la mano buscando el pecho",
+      "Chupa sus dedos instintivamente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad promedio los bebés aprenden a rodar o darse vuelta sobre sí mismos (de boca arriba a boca abajo o viceversa)?",
+    "opciones": [
+      "A las 2 semanas",
+      "Entre los 4 y 6 meses",
+      "A los 9 meses",
+      "Al año"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de patrones y contrastes visuales atraen más la atención de un recién nacido de pocas semanas?",
+    "opciones": [
+      "Colores pastel suaves como el celeste y rosa",
+      "Patrones geométricos de alto contraste en blanco y negro y rostros humanos",
+      "Luces de colores neón parpadeantes",
+      "Superficies lisas monocromáticas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué porcentaje del volumen del cerebro adulto alcanza el cerebro de un bebé al cumplir su primer año de vida?",
+    "opciones": [
+      "Apenas el 25%",
+      "Cerca del 70% al 75%",
+      "El 100% completo",
+      "El 40%"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la frecuencia cardíaca aproximada del feto durante el segundo y tercer trimestre del embarazo?",
+    "opciones": [
+      "Entre 60 y 80 lpm",
+      "Entre 110 y 160 lpm",
+      "Entre 180 y 220 lpm",
+      "Idéntica a la frecuencia cardíaca materna (70 lpm)"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es la maniobra de Leopold realizada por obstetras y parteras?",
+    "opciones": [
+      "Una serie de palpaciones abdominales para determinar la posición, presentación y actitud del feto en el útero",
+      "Un método de masaje para inducir contracciones",
+      "Una técnica quirúrgica de cesárea de emergencia",
+      "Un test de sangre fetal"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Qué reflejo protector hace que un lactante menor de 4 a 6 meses empuje con la lengua hacia afuera cualquier sólido que entre en su boca?",
+    "opciones": [
+      "Reflejo de vómito",
+      "Reflejo de extrusión lingual",
+      "Reflejo de deglución atípica",
+      "Reflejo de masticación"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Por qué no se debe frotar con alcohol el cuerpo de un bebé para bajarle la fiebre?",
+    "opciones": [
+      "Porque mancha la piel",
+      "Porque el alcohol se absorbe rápidamente a través de su piel fina y puede causar intoxicación etílica e hipotermia brusca",
+      "Porque aumenta el calor interno sin evaporarse",
+      "Porque anula el efecto de las vacunas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué se debe la aparición de la 'fiebre de leche' o congestión mamaria severa en los primeros días postparto?",
+    "opciones": [
+      "A una infección bacteriana inmediata",
+      "A la vasodilatación, edema tisular y aumento repentino del flujo sanguíneo y linfático en las mamas al iniciar la producción láctea copiosa",
+      "A falta de consumo de agua por la madre",
+      "A exceso de progesterona en sangre"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuánto mide en promedio la estatura de un recién nacido a término al nacer?",
+    "opciones": [
+      "Entre 38 y 42 cm",
+      "Entre 48 y 52 cm",
+      "Entre 58 y 64 cm",
+      "Entre 65 y 70 cm"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es el 'síndrome de transfusión feto-fetal' que puede ocurrir en ciertos embarazos gemelares?",
+    "opciones": [
+      "Una incompatibilidad de grupo sanguíneo entre madre e hijos",
+      "Un desequilibrio circulatorio grave donde un gemelo le pasa sangre al otro a través de vasos placentarios compartidos",
+      "Un rechazo inmunológico entre embriones en el útero",
+      "Una mutación cromosómica simultánea"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad promedio los bebés comienzan a responder consistentemente a su propio nombre cuando se los llama?",
+    "opciones": [
+      "Al mes de vida",
+      "Entre los 6 y 9 meses",
+      "A los 18 meses",
+      "A los 2 años"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad promedio los niños suelen decir sus primeras palabras con significado (como 'mamá', 'papá', 'agua')?",
+    "opciones": [
+      "Entre los 4 y 6 meses",
+      "Entre los 10 y 14 meses",
+      "A los 2 años exactos",
+      "Entre los 18 y 24 meses"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuántas palabras debería manejar aproximadamente un niño de 2 años en su vocabulario activo?",
+    "opciones": [
+      "Entre 5 y 10 palabras",
+      "Unas 50 palabras como mínimo, idealmente más de 200",
+      "Solo jerga ininteligible",
+      "Exactamente 500 palabras"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad promedio la mayoría de los niños completan el control de esfínteres diurno (dejan el pañal de día)?",
+    "opciones": [
+      "Entre los 12 y 18 meses",
+      "Entre los 2 y 3 años",
+      "A los 4 años estrictamente",
+      "Entre los 5 y 6 años"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se entiende por la 'crisis de los dos años' o 'terrible twos' en el desarrollo infantil?",
+    "opciones": [
+      "Una enfermedad infecciosa propia de la edad",
+      "Una etapa normal de afirmación de la autonomía donde el niño pone a prueba límites con berrinches frecuentes",
+      "Un retraso en el lenguaje que preocupa a los pediatras",
+      "Una regresión a comportamientos de recién nacido"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad promedio los niños aprenden a correr con buena coordinación y a trepar escaleras alternando los pies?",
+    "opciones": [
+      "A los 10 meses",
+      "Alrededor de los 2 años",
+      "A los 4 años",
+      "Recién a los 5 años"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuándo suele aparecer el primer molar de leche en los niños?",
+    "opciones": [
+      "A los 4 meses",
+      "Entre los 13 y 19 meses aproximadamente",
+      "A los 3 años",
+      "Entre los 5 y 6 años"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad se recomienda la primera visita al odontopediatra para cuidar la dentición de leche?",
+    "opciones": [
+      "Cuando aparezca el primer diente o al cumplir el año",
+      "A los 4 años cuando ya tiene todos los dientes",
+      "Solo si hay dolor",
+      "Al comenzar la escuela primaria"
+    ],
+    "correcta": 0
+  },
+  {
+    "pregunta": "¿Cuántos dientes de leche (primarios) tiene en total un niño con la dentición completa?",
+    "opciones": ["16 dientes", "20 dientes", "24 dientes", "28 dientes"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad promedio los niños construyen frases de dos palabras (ej: 'mamá agua', 'nene feo')?",
+    "opciones": [
+      "A los 10 meses",
+      "Alrededor de los 18 a 24 meses",
+      "A los 3 años",
+      "Solo a los 4 años"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuántas horas de sueño necesita aproximadamente un niño de 1 a 2 años en total (incluyendo siesta)?",
+    "opciones": [
+      "6 a 8 horas",
+      "11 a 14 horas",
+      "16 a 18 horas",
+      "Exactamente 10 horas"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad suelen eliminar la siesta del mediodía la mayoría de los niños?",
+    "opciones": [
+      "Al año de vida",
+      "Entre los 3 y 5 años",
+      "A los 6 meses",
+      "Nunca la eliminan antes de los 7 años"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de juego es característico de los niños de 2 a 3 años según la teoría del desarrollo del juego?",
+    "opciones": [
+      "Juego cooperativo con reglas",
+      "Juego en paralelo (juegan cerca de otros niños pero sin interactuar directamente)",
+      "Juego de equipo organizado",
+      "Juego de roles complejos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad los niños comienzan típicamente a dibujar círculos y copiar líneas rectas?",
+    "opciones": [
+      "A los 8 meses",
+      "Alrededor de los 2 a 3 años",
+      "A los 5 años exactos",
+      "Solo si van al jardín de infantes"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad promedio los niños logran pedalear un triciclo de manera coordinada?",
+    "opciones": [
+      "Al año de vida",
+      "Alrededor de los 3 años",
+      "A los 5 años",
+      "A los 18 meses"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué vacuna se aplica habitualmente al año de vida para proteger contra sarampión, paperas y rubéola?",
+    "opciones": ["BCG", "Triple viral (SRP)", "Pentavalente", "Neumococo"],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad es normal que los niños empiecen a tener 'amigos imaginarios'?",
+    "opciones": [
+      "A los 6 meses",
+      "Entre los 2 y 5 años, y es completamente normal",
+      "Solo cuando tienen un trastorno de conducta",
+      "A partir de los 7 años"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuántas comidas principales se recomienda que realice un niño de 1 a 3 años al día?",
+    "opciones": [
+      "Una sola comida abundante",
+      "3 comidas principales y 2 colaciones (meriendas)",
+      "Solo 2 comidas y sin snacks",
+      "6 comidas exactamente iguales"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad los niños suelen comenzar a usar cuchara de manera razonablemente autónoma para comer?",
+    "opciones": [
+      "A los 6 meses",
+      "Entre los 15 y 18 meses aproximadamente",
+      "A los 4 años",
+      "Cuando empiezan la escuela primaria"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad se recomienda reducir el uso del chupete o la mamadera para proteger el desarrollo del paladar y la dentición?",
+    "opciones": [
+      "Al mes de vida",
+      "Antes de los 2 años y eliminarlo definitivamente antes de los 3",
+      "Solo después de los 5 años",
+      "No hay ninguna recomendación al respecto"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué se recomienda para el niño que no quiere comer ciertos alimentos ('neofobia alimentaria') a los 2-3 años?",
+    "opciones": [
+      "Obligarlo a comer para evitar carencias nutricionales",
+      "Exponer el alimento repetidamente sin presión, comer en familia y ofrecer variedad sin forzar",
+      "Eliminar el alimento para siempre",
+      "Consultar a urgencias de inmediato"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad promedio los niños logran saltar con los dos pies juntos desde el piso?",
+    "opciones": [
+      "A los 10 meses",
+      "Alrededor de los 2 años",
+      "A los 4 años",
+      "Solo a los 5 años"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hito del lenguaje se espera que haya logrado un niño de 3 años?",
+    "opciones": [
+      "Hablar en frases de 8 palabras perfectamente gramaticales",
+      "Comunicarse con frases de 3 a 4 palabras y ser entendido por desconocidos en un 75%",
+      "Solo repetir palabras sueltas",
+      "Leer palabras simples"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuántas horas de sueño nocturno se recomiendan para un niño de 3 a 5 años?",
+    "opciones": [
+      "5 a 6 horas",
+      "10 a 13 horas",
+      "Más de 15 horas",
+      "Exactamente 8 horas como los adultos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad el niño suele empezar a reconocerse a sí mismo frente al espejo?",
+    "opciones": [
+      "Al nacer",
+      "Alrededor de los 18 a 24 meses",
+      "A los 4 años",
+      "Recién a los 6 años"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad los niños desarrollan típicamente la 'teoría de la mente' (entender que otros tienen pensamientos y perspectivas distintas)?",
+    "opciones": [
+      "A los 12 meses",
+      "Alrededor de los 3 a 4 años",
+      "Al nacer",
+      "Recién a los 7 u 8 años"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué tipo de juego simbólico o de imitación aparece típicamente entre los 18 meses y los 3 años?",
+    "opciones": [
+      "Jugar a la pelota con reglas estrictas",
+      "El juego de 'hacer como si' (juego de roles, tea parties, doctor, cocinar)",
+      "Videojuegos educativos complejos",
+      "Deportes de equipo organizados"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad los niños suelen aprender a andar en bicicleta sin rueditas de apoyo?",
+    "opciones": [
+      "A los 2 años",
+      "Entre los 4 y 6 años aproximadamente",
+      "Al año de vida",
+      "Recién a los 8 o 9 años"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuántas horas de pantalla (TV, tablet, celular) recomienda la OMS como máximo para un niño de 3 a 4 años por día?",
+    "opciones": [
+      "Sin ningún límite si es contenido educativo",
+      "1 hora al día de contenido de calidad con acompañamiento adulto",
+      "4 horas diarias",
+      "Solo los fines de semana sin límite"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué recomienda la OMS respecto a las pantallas (TV, tablet, celular) en menores de 2 años?",
+    "opciones": [
+      "Están permitidas si el contenido es educativo",
+      "Evitarlas completamente (excepto videollamadas familiares)",
+      "Máximo 3 horas al día",
+      "Solo se pueden usar si el adulto no está presente"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad los niños comienzan a diferenciar entre fantasía y realidad de manera más consistente?",
+    "opciones": [
+      "A los 12 meses",
+      "Alrededor de los 4 a 5 años",
+      "Al nacer",
+      "A los 7 u 8 años"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuál es la señal de alerta de lenguaje más importante a los 2 años que debe consultar al pediatra?",
+    "opciones": [
+      "No saber idiomas extranjeros",
+      "No decir ninguna palabra o haber perdido palabras que ya usaba",
+      "No cantar canciones completas",
+      "No saber los colores"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad los niños suelen poder subir y bajar escaleras alternando los pies sin ayuda?",
+    "opciones": [
+      "A los 12 meses",
+      "Alrededor de los 3 años",
+      "A los 5 años",
+      "A los 18 meses"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué hito social se espera ver en un niño de 4 años?",
+    "opciones": [
+      "Jugar solo sin interés en otros niños",
+      "Jugar cooperativamente con otros niños, negociar turnos y reglas simples",
+      "Organizar equipos de trabajo complejos",
+      "No mostrar ninguna emoción"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad los niños suelen poder dibujar una figura humana reconocible (cabeza, ojos, piernas)?",
+    "opciones": [
+      "A los 12 meses",
+      "Alrededor de los 4 años",
+      "A los 2 años",
+      "Recién a los 7 años"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué es el 'apego seguro' en la primera infancia según la teoría de Bowlby?",
+    "opciones": [
+      "Un dispositivo de seguridad para cunas",
+      "El vínculo afectivo que el bebé forma con su cuidador principal, que le da seguridad para explorar el mundo",
+      "Una técnica de sueño para bebés",
+      "Una forma de disciplina positiva"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad comienzan la mayoría de los niños en el jardín de infantes (preescolar) en Argentina?",
+    "opciones": [
+      "Al año de vida",
+      "A los 3 o 4 años (sala de 3 o sala de 4)",
+      "A los 6 años obligatoriamente",
+      "A los 2 años exactos"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué alimento es el principal peligro de atragantamiento en niños menores de 5 años y debe evitarse entero?",
+    "opciones": [
+      "El puré de papas",
+      "La uva entera, los frutos secos y los caramelos duros",
+      "El yogur natural",
+      "La banana pisada"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿A qué edad se suelen caer los primeros dientes de leche y empezar a salir los dientes permanentes?",
+    "opciones": [
+      "Entre los 3 y 4 años",
+      "Alrededor de los 6 a 7 años",
+      "A los 10 años",
+      "A los 2 años"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Cuántas horas de actividad física al día recomienda la OMS para niños de 3 a 4 años?",
+    "opciones": [
+      "10 minutos",
+      "Al menos 3 horas de actividad física variada distribuida a lo largo del día",
+      "Solo durante la educación física escolar",
+      "1 hora exacta de deporte competitivo"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué vacuna se aplica comúnmente en Argentina a los 18 meses como refuerzo de la triple bacteriana (DTP)?",
+    "opciones": [
+      "Hepatitis B",
+      "Cuádruple bacteriana (DTPa + Hib)",
+      "BCG",
+      "Varicela"
+    ],
+    "correcta": 1
+  }
+]
