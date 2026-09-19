@@ -2,420 +2,460 @@
   {
     "pregunta": "Según la inquebrantable sabiduría popular argentina, ¿cuál es el remedio definitivo cuando un bebé llora de corrido y 'nada le viene bien'?",
     "opciones": [
-      "Ponerle un mechón de pelo detrás de la oreja",
+      "Ponerle un mechón de pelo detrás de la oreja y darle té de manzanilla",
       "Medirle el empacho con una cinta o curarle el ojeo",
-      "Ponerle media taza de vinagre en el agua del baño",
-      "Girar el colchón de la cuna hacia el norte"
+      "Ponerle media taza de vinagre de manzana en el agua del baño",
+      "Girar la cuna hacia el norte para equilibrar la energía"
     ],
     "correcta": 1
   },
   {
-    "pregunta": "Cuando un bebé se tropieza, se golpea despacito y amaga a largarse a llorar, ¿qué maniobra dramática debe ejecutarse de inmediato?",
+    "pregunta": "Cuando un bebé de 9 meses pierde su 'trapito de apego' o peluche favorito antes de ir a dormir, ¿cuál es la consecuencia inmediata en el hogar?",
     "opciones": [
-      "Gritar '¡No pasó nada, no pasó nada!' mientras se salta y aplaude enérgicamente",
-      "Llamar al 107 inmediatamente",
-      "Quedarse congelado en silencio esperando el desenlace",
-      "Retarlo por no mirar por dónde caminaba"
+      "El bebé se distrae fácilmente si se le ofrece un sonajero luminoso",
+      "Suele dormirse más rápido por el cansancio acumulado de la búsqueda",
+      "Se declara Estado de Alerta Nacional con operativo de búsqueda bajo camas y sillones",
+      "Se debe llamar a emergencias pediátricas para un calmante leve"
     ],
-    "correcta": 0
+    "correcta": 2
   },
   {
-    "pregunta": "En pleno verano con 35 grados a la sombra, si un bebé de 3 meses sale a la calle, ¿qué comentario de abuela o vecina es matemáticamente inevitable?",
+    "pregunta": "¿Cuál es la diferencia fundamental entre cómo viste al bebé mamá versus cómo lo viste papá para ir a la plaza?",
     "opciones": [
-      "¡Qué lindo día para tomar sol!",
-      "¡Ese chico tiene frío en las patitas, ponele medias o un saquito!",
-      "Qué despejada que está la calle hoy",
-      "Llevá agua por las dudas"
+      "Mamá lo viste de deportista técnico y papá prefiere ropa de vestir formal",
+      "Mamá combina ropa, abrigo y medias; papá le pone lo primero que encuentra aunque el body sea tres talles más grande",
+      "Papá siempre le pone bufanda de lana y gorro aunque hagan 30 grados",
+      "No hay diferencia, ambos usan estrictamente la guía del bolso maternal"
     ],
     "correcta": 1
   },
   {
-    "pregunta": "Un bebé de 8 meses lleva 20 minutos comiendo papilla y de repente estornuda con la boca llena. ¿A qué distancia llega la salpicadura según la física de la crianza?",
+    "pregunta": "¿Qué 'superhabilidad' oculta desarrolla un bebé de 8 meses en las piernas cuando intenta escaparse en el cambiador?",
     "opciones": [
-      "Queda retenida en el babero",
+      "La habilidad de encoger las rodillas contra el pecho volviéndose una pelota",
+      "Rigidez total tipo estatua de mármol que impide flexionar las articulaciones",
+      "La fuerza de un luchador de sumo para girar sobre su propio eje a velocidad luz",
+      "La capacidad de flotar medio centímetro por encima de la colchoneta"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Le compras al bebé un juguete musical interactivo importado de 80 dólares. ¿Con qué termina jugando con fascinación durante 2 horas?",
+    "opciones": [
+      "Con el cable del cargador de la tele previamente desenchufado",
+      "Con las pilas alcalinas del control remoto",
+      "Con el manual de instrucciones impreso en tres idiomas",
+      "Con la caja de cartón donde vino empaquetado o un rollo de papel servilleta"
+    ],
+    "correcta": 3
+  },
+  {
+    "pregunta": "Cuando un papá se queda a cargo del bebé durante 3 horas solo, ¿cuál es su métrica de éxito al regresar la mamá?",
+    "opciones": [
+      "Haber bañado al bebé, planchado la ropa y ordenado los cajones",
+      "Haberle cortado las uñas de las manos y de los pies sin protestas",
+      "'Sobrevivimos los dos, la casa no se prendió fuego y el bebé comió (algo)'",
+      "Que el bebé haya aprendido a decir su primera palabra de dos sílabas"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "Un bebé de 10 meses lleva 20 minutos comiendo papilla y de repente estornuda con la boca llena. ¿A qué distancia llega la salpicadura según la física de la crianza?",
+    "opciones": [
+      "Cae de manera vertical impactando solo en la bandeja de la silla alta",
       "Alcanza un radio de 2 metros, afectando ropa, pared y la cara de todos los presentes",
-      "Cae verticalmente al suelo",
-      "Solo mancha la cuchara"
+      "Queda retenida en el babero de silicona con contenedor",
+      "Mancha únicamente el borde de la cuchara y el mantel"
     ],
     "correcta": 1
   },
   {
     "pregunta": "En una reunión familiar, tras 40 minutos de caminata e hipnotismo se logra dormir al bebé en brazos. ¿Cuál es la ley de Murphy que se activa en ese instante?",
     "opciones": [
-      "Alguien se ríe a carcajadas o suena un celular con el volumen al máximo",
-      "El bebé suspira y duerme 4 horas seguidas",
-      "Se apagan todas las luces de la casa",
-      "Alguien acerca un tecito caliente"
+      "El bebé suspira profundo y entra en 4 horas de sueño ininterrumpido",
+      "Se produce un apagón general de luz en toda la manzana",
+      "Alguien acerca un tecito caliente para recompensar el esfuerzo",
+      "Alguien se ríe a carcajadas o suena un celular con el volumen al máximo"
     ],
-    "correcta": 0
+    "correcta": 3
   },
   {
     "pregunta": "El bebé empieza con hipo persistente. Además de ofrecerle leche, ¿cuál es el clásico 'mito/truco criollo' que se coloca en la frente?",
     "opciones": [
       "Un pedacito de hilo o algodón mojado con saliva",
-      "Una cascarita de limón seca",
-      "Un punto de ceniza de carbón",
-      "Un chorrito de agua bendita"
+      "Un punto de ceniza de carbón de la parrilla",
+      "Una cascarita de limón seca entibia",
+      "Unas gotas de té de yuyos sobre la piel"
     ],
     "correcta": 0
   },
   {
-    "pregunta": "¿Qué 'efecto secundario' guarda la maniobra de apoyar al bebé en el hombro y darle palmaditas tras la mamadera?",
+    "pregunta": "¿Qué 'habilidad de agarre' incomprensible demuestra un lactante cuando te agarra un mechón de pelo o la cadena del cuello?",
     "opciones": [
-      "Que el bebé se duerma en menos de 30 segundos",
-      "El eructo liberador que casi siempre viene acompañado de un 'regalito' en la remera limpia",
-      "Estimular los músculos del cuello para que empiece a gatear",
-      "Evitar que se le enfríe la panza"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "¿Qué se busca realmente cuando a las 2 de la mañana se decide 'dar una vuelta a la manzana en auto' con el bebé?",
-    "opciones": [
-      "Aprovechar que no hay tráfico para cargar nafta",
-      "Que el ronroneo del motor y el andar del auto anestesien al bebé para que por fin se duerma",
-      "Escuchar un programa de radio en paz",
-      "Buscar una farmacia de turno para comprar chupones de repuesto"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "¿Cuál es la utilidad secundaria (y no médica) que se le descubre al sacaleches manual tras varias semanas de uso?",
-    "opciones": [
-      "Medir exactamente cuántos mililitros toma el bebé por hora",
-      "Descargar tensiones imaginando que se exprime la mala suerte del día",
-      "Un entrenamiento intensivo de antebrazo digno de gimnasio",
-      "Comprobar si la leche está a temperatura ambiente"
+      "Reflejo de suelta inmediata al sentir la menor resistencia",
+      "Fuerza magnética producida por la electricidad estática de la ropa",
+      "Prensión de mandíbula hidráulica: no lo suelta ni aunque le ofrezcas su juguete favorito",
+      "Agarre suave de seda que se desengancha al soplarle la palma"
     ],
     "correcta": 2
   },
   {
-    "pregunta": "Un bebé de 10 meses gatea por la casa y de repente se hace un silencio absoluto de más de 15 segundos. ¿Qué significa?",
+    "pregunta": "Estás buscando desesperadamente el control remoto de la televisión. ¿En qué lugar estratégico es más probable que lo haya escondido un nene de 18 meses?",
     "opciones": [
-      "Se quedó dormido plácidamente en la alfombra",
-      "Está haciendo una travesura destructiva o comiéndose algo misterioso del suelo",
-      "Está contemplando la belleza del universo",
-      "Está esperando pacientemente que lo vayan a buscar"
+      "Arriba de la mesa de la cocina, al alcance de la vista",
+      "Adentro del canasto de la ropa sucia, en el zócalo del sillón o adentro del lavarropas",
+      "En el cajón de los cubiertos ordenado junto a los tenedores",
+      "Adentro del freezer al lado de los cubos de hielo"
     ],
     "correcta": 1
+  },
+  {
+    "pregunta": "¿Qué ocurre cuando mamá escucha llorar al bebé a las 3 AM en comparación con la reacción de papá?",
+    "opciones": [
+      "Papá se levanta a preparar el biberón corriendo y mamá sigue durmiendo",
+      "Ambos se levantan coordinadamente haciendo un baile de sincronización",
+      "Mamá salta de la cama al primer gemido en modo radar; papá sigue roncando como en un spa hasta el codazo",
+      "Ninguno se despierta porque los lactantes no lloran de madrugada"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué se busca realmente cuando a las 2 de la mañana se decide 'dar una vuelta a la manzana en auto' con el bebé?",
+    "opciones": [
+      "Escuchar un programa de radio nocturno en absoluta soledad",
+      "Que el ronroneo del motor y el andar del auto anestesien al bebé para que por fin se duerma",
+      "Buscar una farmacia de turno de urgencia para comprar chupones",
+      "Aprovechar que la ruta está despejada para cargar combustible económico"
+    ],
+    "correcta": 1
+  },
+  {
+    "pregunta": "Un bebé de 10 meses gatea por la casa y de repente se hace un silencio absoluto de más de 15 segundos. ¿Qué significa?",
+    "opciones": [
+      "Se quedó dormido plácidamente en la alfombra de la sala",
+      "Está contemplando la belleza del universo y las luces de la ventana",
+      "Está haciendo una travesura destructiva o comiéndose algo misterioso del suelo",
+      "Está esperando pacientemente que los adultos vayan a jugar con él"
+    ],
+    "correcta": 2
   },
   {
     "pregunta": "Al sentarse a comer un plato de comida bien caliente después de un día agotador, ¿qué evento cósmico ocurre de inmediato?",
     "opciones": [
       "El bebé se despierta o empieza a llorar pidiendo atención",
-      "Suena el timbre del correo",
-      "Se corta la luz en el barrio",
-      "El perro empieza a ladrar en la puerta"
+      "Suena la alarma de correo electrónico del trabajo",
+      "El perro de la casa empieza a ladrar pidiendo salir",
+      "Se interrumpe la conexión de internet del hogar"
     ],
     "correcta": 0
   },
   {
     "pregunta": "Según la tradición popular de las tías, ¿qué consecuencia sufren los recién nacidos si andan con los pies descalzos?",
     "opciones": [
-      "Les agarra dolor de cabeza",
+      "Les salen ronchas por alérgenos flotantes en el aire",
       "Les entra 'fresco por los pies' y se empachan o junta aire la panza",
-      "Se les tuercen los dedos de las patas",
-      "Les salen ronchas por alérgenos del aire"
+      "Se les tuercen los huesos de los dedos de los pies",
+      "Les provoca un pico de fiebre por falta de termorregulación"
     ],
     "correcta": 1
   },
   {
-    "pregunta": "¿Qué reflejo sobrehumano se activa cuando un bebé estira la mano hacia la taza de mate recién servida?",
+    "pregunta": "¿Qué 'radar táctil' especial tienen los bebés cuando los adultos intentan sacarles un objeto peligroso de las manos?",
     "opciones": [
-      "Telequinesis instantánea",
-      "Velocidad ninja para manotear la taza en el aire sin derramar una gota",
-      "Capacidad de emitir un silbido ultrasónico de advertencia",
-      "Tapar el termo con el pie"
+      "Sueltan el objeto amablemente pidiendo un reemplazo",
+      "Cierran los ojos para simular que no están haciendo nada",
+      "Se quedan paralizados esperando que se lo retiren",
+      "Aprietan la mano con la fuerza de un alicate y echan a correr a gateo rápido"
     ],
-    "correcta": 1
+    "correcta": 3
   },
   {
-    "pregunta": "¿En qué consiste la 'prueba del algodón' para comprobar que la mamadera no va a quemarle la boca al bebé?",
+    "pregunta": "Vas caminando por el shopping y el nene se te pierde de vista durante 5 segundos de pánico puro. ¿Dónde lo encontrás?",
     "opciones": [
-      "Probar un sorbo grande directamente de la tetina",
-      "Tirarse unas gotas de leche en la cara interna de la muñeca",
-      "Usar un termómetro de cocina digital",
-      "Soplar la tetina durante 30 segundos"
+      "Metido adentro del perchero de ropa o mirando fascinado una vidriera de juguetes",
+      "En el mostrador de atención al cliente pidiendo un anuncio",
+      "Camino al estacionamiento intentando abrir el auto",
+      "En la fila de la caja intentando pagar con moneditas"
     ],
-    "correcta": 1
+    "correcta": 0
   },
   {
     "pregunta": "Para subir dos escalones o pasar por un pasillo angosto con el cochecito desplegado, ¿cuál es la maniobra estándar?",
     "opciones": [
-      "Bajar al bebé, armar el bolso y llevar el cochecito a la rastra",
+      "Bajar al bebé, plegar la estructura y subir todo a la rastra",
+      "Pedir asistencia a dos transeúntes que pasen por la calle",
       "Hacer palanca con el pie sobre el eje trasero y levantar las ruedas delanteras en una pirueta de equilibrio",
-      "Pedir ayuda a tres transeúntes",
-      "Dar la vuelta a la manzana buscando una rampa de discapacitados"
+      "Dar la vuelta completa a la manzana buscando una rampa accesible"
     ],
-    "correcta": 1
+    "correcta": 2
   },
   {
     "pregunta": "Ante un berrinche colosal de un nene de 2 años en el supermercado por un juguete, ¿cuál es la estrategia táctica más efectiva?",
     "opciones": [
-      "Comprarle tres juguetes iguales para que se calme",
+      "Comprarle tres juguetes iguales para asegurar la paz del viaje",
+      "Tirarse al suelo al lado del nene a imitar su pataleo",
       "Aplicar la técnica del 'mirá ese pajarito' o acelerar el paso mirando fijamente hacia el frente",
-      "Tirarse al piso al lado del nene a patalear también",
-      "Dejar el changuito lleno e irse caminando a casa"
+      "Abandonar el carro con compras e irse caminando a casa"
     ],
-    "correcta": 1
+    "correcta": 2
   },
   {
     "pregunta": "¿Por qué motivo tradicional se le ata una cintita roja en la muñeca o en el cochecito al recién nacido?",
     "opciones": [
-      "Para combinar con la vestimenta de salir",
-      "Para ahuyentar la 'envidia' y protegerlo del 'mal de ojo'",
-      "Para que el personal médico no lo confunda",
-      "Para medir si la muñeca está ganando masa muscular"
+      "Para combinar con el estampado de la vestimenta de paseo",
+      "Para medir semanalmente el crecimiento muscular de la muñeca",
+      "Para que el personal de la clínica no confunda los lactantes",
+      "Para ahuyentar la 'envidia' y protegerlo del 'mal de ojo'"
     ],
-    "correcta": 1
+    "correcta": 3
   },
   {
-    "pregunta": "¿Cuál es la función real del 'chupete de repuesto' que descansa en el fondo del bolso maternal?",
+    "pregunta": "¿Cuál es la 'superhabilidad auditiva' que desarrolla un bebé de 1 año frente al paquete de sus galletitas favoritas?",
     "opciones": [
-      "Entrar en acción cuando el principal cae al suelo de la calle y no hay agua para lavarlo",
-      "Prestárselo a otro bebé en la plaza",
-      "Usarlo de juguete mordillo",
-      "Quedar juntando pelusas hasta que el nene cumpla 3 años"
+      "Escuchar el ruidito del celofán al abrirse a 3 habitaciones de distancia incluso durmiendo",
+      "Reconocer la frecuencia de voz del repartidor del almacén",
+      "Distinguir el peso exacto de las galletitas dentro de la caja",
+      "Oler el horneado industrial a través de las paredes cerradas"
     ],
     "correcta": 0
   },
   {
     "pregunta": "Al servirle a un bebé de 9 meses un puré artesanal con vegetales orgánicos, ¿cuál suele ser su reacción?",
     "opciones": [
-      "Comérselo todo en dos minutos y pedir más",
+      "Comérselo en dos minutos dando muestras de entusiasmo",
+      "Servírselo al perro de la casa cuando el adulto se da vuelta",
       "Cerrar la boca con fuerza de morsa y pedir la miga de pan dura que encontró en el piso",
-      "Agradecer con una sonrisa encantadora",
-      "Servírselo al perro discretamente"
+      "Sonreír y aplaudir con la cuchara de plástico"
     ],
-    "correcta": 1
+    "correcta": 2
   },
   {
     "pregunta": "Al cambiar un pañal en una mesa y darse cuenta de que las toallitas quedaron a dos metros, ¿cuál es el error que NUNCA debe cometerse?",
     "opciones": [
-      "Pedir auxilio a los gritos a quien esté en la casa",
+      "Solicitar auxilio a viva voz a quien se encuentre en la casa",
       "Girar el cuerpo o soltar al bebé un segundo (porque ROLAN a velocidad luz)",
-      "Usar una servilleta de papel secante",
-      "Limpiarlo con la manga del body"
+      "Utilizar temporalmente una servilleta de papel secante",
+      "Limpiarle la zona con la manga del body de repuesto"
     ],
     "correcta": 1
   },
   {
     "pregunta": "Cuando en un día templado alguien advierte: 'Llevate un abrigo por las dudas', ¿qué fenómeno meteorológico se está anunciando?",
     "opciones": [
+      "Que la persona que lo dice tiene frío en sus extremidades",
       "Una profecía infalible: refrescará bruscamente exactamente a las 18:30 hs",
-      "Que esa persona tiene frío",
-      "Que el abrigo servirá como almohadón en el vehículo",
-      "Que va a granizar en breve"
-    ],
-    "correcta": 0
-  },
-  {
-    "pregunta": "Alrededor de los 6 meses, cuando un bebé descubre la existencia de sus propios pies, ¿qué hace de inmediato?",
-    "opciones": [
-      "Agarrárselos con ambas manos e intentar meterse el dedo gordo en la boca",
-      "Mirárselos con indiferencia y seguir durmiendo",
-      "Intentar ponerse de pie",
-      "Patalear furiosamente para quitárselos"
-    ],
-    "correcta": 0
-  },
-  {
-    "pregunta": "¿Qué objeto cotidiano de la casa causa más entretenimiento en un bebé que un juguete caro con luces?",
-    "opciones": [
-      "Un peluche importado con sonidos interactivos",
-      "El paquete de toallitas húmedas, el control remoto de la tele o un manojo de llaves",
-      "Un libro de cuentos con texturas sensoriales",
-      "Un mordillo refrigerante de silicona"
+      "Que la prenda servirá como almohadón suplementario en el auto",
+      "Que hay alerta de granizo inminente para la zona"
     ],
     "correcta": 1
   },
   {
+    "pregunta": "Alrededor de los 6 meses, cuando un bebé descubre la existencia de sus propios pies, ¿qué hace de inmediato?",
+    "opciones": [
+      "Mirárselos con total indiferencia y continuar durmiendo",
+      "Patalear furiosamente contra las mantas para quitárselos",
+      "Agarrárselos con ambas manos e intentar meterse el dedo gordo en la boca",
+      "Hacer fuerza para ponerse de pie en la cuna"
+    ],
+    "correcta": 2
+  },
+  {
+    "pregunta": "¿Qué objeto cotidiano de la casa causa más entretenimiento en un bebé que un juguete caro con lights y sonidos?",
+    "opciones": [
+      "El paquete de toallitas húmedas, el control remoto de la tele o un manojo de llaves",
+      "Un peluche importado con sensores táctiles inteligentes",
+      "Un libro de cuentos infantiles con texturas de tela",
+      "Un mordillo ergonómico refrigerante de silicona"
+    ],
+    "correcta": 0
+  },
+  {
     "pregunta": "Si un adulto estrena remera blanca y limpia para ir a una reunión con un bebé en brazos, ¿cuál es la probabilidad de que termine manchada con baba o papilla?",
     "opciones": [
-      "10%",
-      "50%",
-      "99.9% dentro de los primeros 10 minutos",
-      "Solo si el bebé está despierto"
+      "Alrededor del 10% si se usa babero protector",
+      "Un 50% dependiendo del humor del lactante",
+      "Un 99.9% dentro de los primeros 10 minutos de la reunión",
+      "Solo ocurre si el bebé permanece despierto todo el evento"
     ],
     "correcta": 2
   },
   {
     "pregunta": "¿Qué método casero se utiliza para verificar si un pañal requiere cambio urgente sin abrir las tiras adhesivas?",
     "opciones": [
-      "Mirar el cronómetro del celular",
       "El método del 'pesaje' manual o la inspección olfativa discreta ('sniff test')",
-      "Esperar a que el bebé avise verbalmente",
-      "Verificar el tono de color de los cachetes"
+      "Mirar el temporizador del teléfono celular",
+      "Esperar a que el lactante emita una señal verbal",
+      "Observar si los cachetes se ponen colorados"
     ],
-    "correcta": 1
+    "correcta": 0
   },
   {
     "pregunta": "Si un bebé de 4 meses produce litros de baba diarios, ¿cuál es la explicación automática que da cualquier abuela?",
     "opciones": [
       "¡Le están por brotar los primeros dientitos!",
-      "Tiene sed y necesita agua inmediatamente",
-      "Es por culpa de la humedad del ambiente",
-      "Está pidiendo probar comida sólida"
+      "Tiene sed y necesita un trago de agua urgente",
+      "Es una reacción típica a la humedad del aire",
+      "Está demostrando ganas de probar asado o comida sólida"
     ],
     "correcta": 0
   },
   {
     "pregunta": "¿Qué dispositivo 'fantasma' parece activarse al apoyar suavemente a un bebé dormido sobre la cuna?",
     "opciones": [
-      "Un sensor en la espalda que lo despierta sobresaltado apenas toca el colchón",
-      "Un temporizador que garantiza 3 horas de sueño profundo",
-      "Un mecanismo de balanceo automático",
-      "Un relajante muscular natural"
+      "Un temporizador que asegura 3 horas de descanso continuo",
+      "Un mecanismo de mecedora automatizado",
+      "Un relajante muscular que lo hace soltar los brazos",
+      "Un sensor en la espalda que lo despierta sobresaltado apenas toca el colchón"
     ],
-    "correcta": 0
+    "correcta": 3
   },
   {
-    "pregunta": "Cuando un nene de 3 años entra en el bucle infinito de preguntar '¿Por qué?', ¿cuál es la respuesta final de cierre?",
+    "pregunta": "¿Cuál es la reacción de un papá cuando el bebé hace una pequeña gracia como sacarle la lengua o tirar un eructito?",
     "opciones": [
-      "Explicarle en detalle la ley física correspondiente",
-      "¡Porque sí! / ¡Porque lo digo yo y punto!",
-      "Ir a consultar un libro enciclopédico",
-      "Analizar la pregunta filosóficamente"
+      "Analizar con preocupación si representa una falta de modales",
+      "Orgullo absoluto: lo festeja como si hubiera ganado el Mundial y pide que lo repita",
+      "Llamar al pediatra de cabecera para reportar el gesto",
+      "Anotar la hora exacta del suceso en la libreta sanitaria"
     ],
     "correcta": 1
   },
   {
     "pregunta": "Si un bebé estornuda una sola vez en la casa de sus abuelos, ¿qué protocolo de seguridad se activa de inmediato?",
     "opciones": [
+      "Administrarle un antialérgico pediátrico de venta libre",
+      "Tomarle la temperatura corporal cada 10 minutos con termómetro digital",
       "Colocarle dos camisetas, una manta, un gorro y cerrar las ventanas a cal y canto",
-      "Administrarle un antialérgico",
-      "Tomarle la temperatura cada 10 minutos",
-      "Salir para la guardia pediátrica"
+      "Preparar el bolso para salir hacia la guardia pediátrica"
     ],
-    "correcta": 0
+    "correcta": 2
   },
   {
     "pregunta": "¿Qué ecosistema suele encontrarse al revisar los pliegues de un cochecito con seis meses de uso?",
     "opciones": [
-      "Mecanismos limpios y lubricados",
       "Migas de galletita, chupones extraviados y una media huérfana de origen desconocido",
-      "Juguetes ordenados por color",
-      "Un manual de instrucciones arrugado"
+      "Mecanismos mecánicos totalmente limpios y lubricados",
+      "Colección de juguetes ordenados por tamaño",
+      "Un manual de instrucciones arrugado en el fondo"
     ],
-    "correcta": 1
+    "correcta": 0
   },
   {
     "pregunta": "Al preparar una mamadera a las 3 de la mañana en penumbras, ¿cuál es el pequeño accidente más común?",
     "opciones": [
+      "Ponerle sal de cocina en lugar de leche en polvo",
+      "Tomarse la mamadera de leche uno mismo por error",
       "Confundirse de lugar y apoyar la tetina en el cachete o la nariz del bebé",
-      "Tomarse la mamadera uno mismo",
-      "Ponerle sal en lugar de leche en polvo",
-      "Quedarse dormido de pie contra la pared"
+      "Quedarse dormido de pie apoyado contra la mesada"
     ],
-    "correcta": 0
+    "correcta": 2
   },
   {
     "pregunta": "Cuando un bebé gatea velozmente hacia un enchufe o algo sucio, ¿cuál es la voz de alarma universal?",
     "opciones": [
-      "¡Atención con los microorganismos!",
+      "¡Atención con los gérmenes de la superficie!",
+      "Por favor, detenga su trayectoria inmediatamente",
       "¡¡¡CACA, ESO NO, CACA!!!",
-      "Por favor, detenga su marcha",
-      "Objeto peligroso detectado"
+      "Alerta de riesgo de descarga eléctrica"
     ],
-    "correcta": 1
+    "correcta": 2
   },
   {
     "pregunta": "¿Cuál es la prueba irrefutable de que un bebé de 1 año ha perfeccionado su desarrollo motor fino?",
     "opciones": [
-      "Agarrar un lápiz correctamente",
+      "Construir una torre equilibrada con 5 cubos de madera",
       "Encontrar la miga más diminuta del piso y metérsela a la boca en milisegundos",
-      "Construir una torre con 5 cubos",
-      "Pasar las hojas de un cuento de papel"
+      "Sostener un crayón con la postura de tres dedos",
+      "Pasar las hojas de un cuento de cartón fino sin romperlas"
     ],
     "correcta": 1
   },
   {
-    "pregunta": "Si un bebé entra en llanto desconsolado en medio del transporte público, ¿qué estrategia de contención se ejecuta?",
+    "pregunta": "¿Qué 'flexibilidad sobrehumana' demuestra un bebé cuando intenta sacarse las medias en el auto?",
     "opciones": [
-      "Bajarse en la siguiente parada inmediatamente",
-      "Hacer sonidos de animales, cantar la 'Vaca Lola' y rebotar suavemente pidiendo disculpas con la mirada",
-      "Darle un teléfono celular desbloqueado",
-      "Mirar hacia afuera disimulando"
+      "Pedir ayuda de forma gestual al conductor del vehículo",
+      "La habilidad de contorsionista para sacárselas usando solo los dedos del otro pie en 2 segundos",
+      "Lograr desabrochar el arnés de seguridad de la silla de auto",
+      "Arrojar la prenda por la rendija de la ventana trasera"
     ],
     "correcta": 1
   },
   {
-    "pregunta": "¿Por qué un bebé acepta comer de todo en la casa de los abuelos pero rechaza la misma comida en su propio hogar?",
+    "pregunta": "¿Cómo reacciona mamá versus papá cuando el bebé se llena de barro jugando en el patio?",
     "opciones": [
-      "Por el tipo de sal utilizado en la cocción",
-      "Por la magia de comer con la televisión prendida o jugando en la mesa",
-      "Por la calidad del agua de la zona",
-      "Porque los platos son de otro color"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "Cuando un chupete sale volando del cochecito y cae a la vereda, ¿cuál es la maniobra de higienización exprés más utilizada?",
-    "opciones": [
-      "Refregarlo contra la remera o chuparlo el adulto antes de devolvérselo al bebé",
-      "Guardarlo en una bolsa estéril y sacar uno nuevo",
-      "Buscar un bar cercano para hervirlo 15 minutos",
-      "Tirarlo a la basura e iniciar la etapa de destete"
+      "Mamá piensa en las manchas de la ropa y el baño; papá saca el celular para sacarle fotos y dice '¡es parte de la infancia!'",
+      "Mamá se tira al barro a jugar con él y papá limpia la casa con lavandina",
+      "Ambos contratan una empresa de limpieza de tapizados de urgencia",
+      "Papá le compra ropa de reemplazo y tira la prenda manchada a la basura"
     ],
     "correcta": 0
   },
   {
-    "pregunta": "Un bebé que está aprendiendo a caminar tambaleándose por el living, ¿hacia qué punto se desplaza irremisiblemente?",
+    "pregunta": "Cuando un chupete sale volando del cochecito y cae a la vereda, ¿cuál es la maniobra de higienización exprés más utilizada?",
     "opciones": [
-      "Hacia las colchonetas de protección",
-      "Hacia la esquina filosa de la mesa ratona o el plato de agua de la mascota",
-      "Hacia la cuna para acostarse solo",
-      "Hacia los juguetes blandos"
+      "Guardarlo en una bolsa hermética y utilizar uno nuevo de repuesto",
+      "Refregarlo contra la remera o chuparlo el adulto antes de devolvérselo al bebé",
+      "Ingresar a un local gastronómico cercano para hervirlo 15 minutos",
+      "Darlo por perdido e iniciar de inmediato el proceso de destete"
     ],
     "correcta": 1
   },
   {
+    "pregunta": "Un bebé que está aprendiendo a caminar tambaleándose por el living, ¿hacia qué punto se desplaza irremisiblemente?",
+    "opciones": [
+      "Hacia las alfombras o colchonetas de protección contra golpes",
+      "Hacia la cuna para acostarse a descansar por sus propios medios",
+      "Hacia la esquina filosa de la mesa ratona o el plato de agua de la mascota",
+      "Hacia el canasto con peluches y juguetes blandos"
+    ],
+    "correcta": 2
+  },
+  {
     "pregunta": "¿Por qué cortarle las uñas a un bebé de 4 meses despierto se considera una tarea de alto riesgo?",
     "opciones": [
-      "Because las uñas son demasiado duras",
+      "Porque las uñas del lactante son demasiado duras para el alicate",
       "Porque el bebé mueve los dedos como pianista a mil por hora impidiendo fijar el cortauñas",
-      "Porque el bebé cae en un sueño profundo",
-      "Porque las tijeras infantiles pierden el filo"
+      "Porque el contacto con el metal le produce un sueño instantáneo",
+      "Porque las tijeras de punta redonda pierden el filo con facilidad"
     ],
     "correcta": 1
   },
   {
     "pregunta": "Al retirar el pañal sucio y dejar al bebé unos segundos 'al aire libre' sobre el cambiador, ¿qué fenómeno suele ocurrir?",
     "opciones": [
-      "El bebé se queda completamente inmóvil",
-      "El contacto con la brisa fresca desencadena un chorro de pis directo hacia la ropa limpia",
-      "El bebé se da vuelta y se duerme",
-      "El bebé intenta ponerse el pañal solo"
+      "El bebé se queda completamente inmóvil disfrutando el aire",
+      "El bebé intenta colocarse el pañal limpio con las manos",
+      "El bebé rueda sobre su vientre y queda dormido",
+      "El contacto con la brisa fresca desencadena un chorro de pis directo hacia la ropa limpia"
     ],
-    "correcta": 1
+    "correcta": 3
   },
   {
-    "pregunta": "¿Cuál es la justificación tradicional para ponerle una camiseta o 'body' debajo de la ropa a un bebé incluso con calor?",
+    "pregunta": "¿Qué 'falla técnica' suele tener el sonajero ruidoso preferido del bebé a las 6 de la mañana?",
     "opciones": [
-      "Evitar roces de la ropa exterior",
-      "Evitar que 'le entre aire por los riñones y se enferme de la panza'",
-      "Impedir que se le desabroche el pañal",
-      "Hacer que la ropa luzca más armada"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "Ante el primer estornudo doble de un recién nacido, ¿cuál es la reacción común de unos padres primerizos?",
-    "opciones": [
-      "Consultar inmediatamente en internet si es síntoma de algo grave o llamar a la guardia",
-      "Decir 'salud' y continuar con la rutina",
-      "Limpiarle la nariz con un paño",
-      "Abrir las ventanas para ventilar la habitación"
+      "Que no tiene botón de apagado ni control de volumen",
+      "Que se le agotan las pilas a los dos minutos de uso",
+      "Que emite sonidos únicamente cuando el lactante se duerme",
+      "Que cambia la reproducción de canciones a otro idioma sola"
     ],
     "correcta": 0
   },
   {
+    "pregunta": "Ante el primer estornudo doble de un recién nacido, ¿cuál es la reacción común de unos padres primerizos?",
+    "opciones": [
+      "Decir 'salud' con naturalidad y continuar con las tareas",
+      "Consultar inmediatamente en internet si es síntoma de algo grave o llamar a la guardia",
+      "Limpiarle las fosas nasales con un paño de tela suave",
+      "Abrir las ventanas de la vivienda para renovar el aire"
+    ],
+    "correcta": 1
+  },
+  {
     "pregunta": "Para salir de la casa con un bebé durante solo 2 horas, ¿cuál es el volumen promedio del bolso maternal?",
     "opciones": [
-      "Un estuche pequeño con un pañal y una mamadera",
+      "Un estuche pequeño donde entra un pañal y un biberón",
       "Una valija equipada como para una expedición de 15 días a la Patagonia",
-      "Una riñonera mediana",
-      "Solo el cochecito sin equipaje"
+      "Una riñonera deportiva mediana",
+      "Únicamente la canasta inferior del cochecito sin bolsos adicionales"
     ],
     "correcta": 1
   },
@@ -423,99 +463,99 @@
     "pregunta": "Cuando una embarazada comenta que el bebé patea mucho por las noches, ¿qué frase de consuelo recibe con frecuencia?",
     "opciones": [
       "¡Aprovechá a dormir ahora porque después no dormís más!",
-      "Es recomendable tomar leche tibia antes de acostarse",
-      "Seguro va a ser deportista profesional",
-      "Hay que ponerle música suave en el abdomen"
+      "Es aconsejable ingerir leche tibia antes de recostarse",
+      "Eso confirma que el bebé será deportista profesional en el futuro",
+      "Se debe colocar música clásica a volumen moderado sobre el abdomen"
     ],
     "correcta": 0
   },
   {
     "pregunta": "En cuanto el bebé logra dormirse una siesta profunda a la tarde, ¿qué evento del entorno suele desatarse?",
     "opciones": [
-      "El silencio absoluto del barrio durante 3 horas",
+      "Se garantiza un silencio sepulcral en el vecindario durante 3 horas",
+      "Una baja repentina en la temperatura de la habitación",
       "El paso de un camión con altavoces o el vecino comenzando a usar el taladro en la pared",
-      "Una baja repentina de la temperatura",
-      "Un apagón general de luz"
+      "Un corte programado de energía eléctrica en el edificio"
     ],
-    "correcta": 1
+    "correcta": 2
   },
   {
-    "pregunta": "Según la sabiduría popular, ¿qué anuncia la aparición de cachetes muy colorados en un lactante?",
+    "pregunta": "¿Qué diferencia hay entre la valija que arma mamá para el bebé cuando van de viaje versus la que arma papá?",
     "opciones": [
-      "Exceso de calor ambiental",
-      "La erupción de un diente, estado febril o que le hicieron 'ojeo'",
-      "Consumo elevado de vegetales",
-      "Timidez repentina"
+      "Papá lleva tres pares de zapatos de vestir infantiles por si salen a cenar",
+      "Mamá lleva 14 cambios de ropa 'por las dudas' y botiquín; papá lleva 2 bodys, 1 pañal y olvida el chupete",
+      "Ambos preparan exactamente el mismo volumen de equipaje por lista",
+      "Mamá olvida la ropa básica del bebé y lleva únicamente juguetes interactivos"
     ],
     "correcta": 1
   },
   {
     "pregunta": "¿En qué consiste la estrategia de 'preparación nocturna' para no caminar a la cocina de madrugada a hacer la mamadera?",
     "opciones": [
-      "Dejar el termo con agua tibia y los dosificadores de leche listos en la mesa de luz",
-      "Llevar al bebé hasta la cocina a oscuras",
-      "Instalar una heladera pequeña en el dormitorio",
-      "Enseñar al bebé a sostener el biberón por sí mismo"
+      "Llevar al bebé en brazos hasta la cocina a oscuras para no espantarle el sueño",
+      "Instalar un minibar o heladera pequeña al lado del placard",
+      "Enseñar al bebé a sostener la mamadera por sí mismo desde las primeras semanas",
+      "Dejar el termo con agua tibia y los dosificadores de leche listos en la mesa de luz"
     ],
-    "correcta": 0
+    "correcta": 3
   },
   {
     "pregunta": "Al comenzar la etapa de alimentación sólida del bebé, ¿qué zona de la indumentaria del adulto sufre más manchas?",
     "opciones": [
-      "Los pantalones",
+      "La botamanga de los pantalones de jeans",
       "La zona del hombro de la remera donde se apoya al bebé para hacer los eructos",
-      "El calzado",
-      "Las mangas de los buzos"
+      "La parte superior del calzado de entrecasa",
+      "Las mangas de los buzos de abrigo"
     ],
     "correcta": 1
   },
   {
     "pregunta": "¿Qué fenómeno sensorial hace que una persona crea escuchar el llanto del bebé mientras se ducha con agua caliente?",
     "opciones": [
-      "La acústica del baño",
-      "El 'llanto fantasma' generado por el estado de alerta permanente",
-      "Un eco de las tuberías",
-      "Una interferencia de sonido externo"
+      "Una propiedad acústica particular de los azulejos del baño",
+      "El 'llanto fantasma' generado por el estado de alerta permanente del cerebro",
+      "Un eco producido por la vibración de las cañerías de agua",
+      "Una interferencia de sonido proveniente de las casas vecinas"
     ],
     "correcta": 1
   },
   {
     "pregunta": "Si un chico de 2 años encuentra un fibrón negro frente a una pared blanca recién pintada, ¿qué ocurre inevitablemente?",
     "opciones": [
-      "Guarda el marcador en la mesa",
+      "Guarda el marcador en la caja de útiles de la mesa",
+      "Busca una hoja de papel de borrador para comenzar a trazar líneas",
       "Diseña un mural a lo largo de toda la pared a la altura de su cabeza",
-      "Busca una hoja de papel para dibujar",
-      "Entrega el marcador al adulto más cercano"
+      "Le entrega el marcador al adulto más cercano para no mancharse"
     ],
-    "correcta": 1
+    "correcta": 2
   },
   {
     "pregunta": "Cuando un juguete musical se queda sin baterías y se busca evitar el ruido, ¿cuál es la explicación clásica dada al nene?",
     "opciones": [
-      "Explicarle el funcionamiento de las pilas alcalinas",
+      "Explicarle en detalle la química interna de las pilas alcalinas",
+      "Responsabilizarlo por haber presionado los botones con demasiada fuerza",
       "Decirle que el juguete 'se fue a dormir porque está muy cansado'",
-      "Responsabilizarlo por usarlo demasiado tiempo",
-      "Decirle que el juguete cambió de formato"
+      "Asegurarle que el juguete cambió de melodías a un formato silencioso"
     ],
-    "correcta": 1
+    "correcta": 2
   },
   {
-    "pregunta": "Al pasear con el cochecito por la vereda, ¿qué impulso irresistible suele experimentar la gente desconocida?",
+    "pregunta": "Vas a un cumpleaños familiar y el bebé pierde una de sus dos medias antes de entrar. ¿En qué dimensión desconocida termina esa media?",
     "opciones": [
-      "Ofrecer ayuda con las bolsas",
-      "Acercarse a tocarle las manos o los cachetes al bebé diciendo '¡Qué cosita hermosa!'",
-      "Indicar la dirección hacia el parque",
-      "Preguntar el modelo del cochecito"
+      "En el Triángulo de las Bermudas de la ropa infantil, para no ser encontrada jamás",
+      "Guardada adentro del bolsillo de la campera del adulto",
+      "Atada milagrosamente al tobillo opuesto del bebé",
+      "En el suelo del auto alineada al lado de la otra media"
     ],
-    "correcta": 1
+    "correcta": 0
   },
   {
     "pregunta": "Si un niño de 4 años permanece en su habitación en silencio absoluto por más de 10 minutos, ¿cuál es la deducción inmediata?",
     "opciones": [
-      "Que está leyendo concentrado un libro",
+      "Que resolvió ordenar sus juguetes por categorías de color",
       "Que está llevando a cabo una travesura de proporciones épicas",
-      "Que decidió ordenar sus juguetes",
-      "Que se quedó dormido placenteramente"
+      "Que se encuentra concentrado leyendo un libro ilustrado",
+      "Que cayó en un sueño profundo sobre la alfombra"
     ],
     "correcta": 1
   },
@@ -523,230 +563,200 @@
     "pregunta": "¿Cuál es la herramienta de distracción más efectiva para lograr cortar las uñas de un nene pequeño sin sobresaltos?",
     "opciones": [
       "Ponerle videos musicales infantiles en la pantalla del celular",
-      "Prometerle un paseo al parque de diversiones",
-      "Explicarle la higiene de las manos",
-      "Darle una fruta en trozos"
+      "Prometerle una visita a un parque de diversiones el fin de semana",
+      "Impartir una charla educativa sobre la higiene de las manos",
+      "Ofrecerle un trozo de fruta deshidratada para masticar"
     ],
     "correcta": 0
   },
   {
-    "pregunta": "Al regalarle a un nene un juguete costoso que viene dentro de una caja de cartón gigante, ¿con qué termina jugando?",
+    "pregunta": "¿Qué 'habilidad de negociación' rápida despliega un nene de 2 años cuando no quiere acostarse a dormir?",
     "opciones": [
-      "Exclusivamente con el juguete didáctico",
-      "Ignora el juguete y pasa tres días metido dentro de la caja de cartón",
-      "Guarda las piezas ordenadamente",
-      "Prefiere regalar el juguete a un amigo"
+      "Apagar la luz de la veladora y recostarse en silencio",
+      "Firmar un acuerdo verbal de horarios con sus progenitores",
+      "Pedir agua, un cuento más, ir al baño, buscar otro peluche y un abrazo extra en un bucle infinito",
+      "Ajustar las agujas del reloj despertador para demorar la hora"
     ],
-    "correcta": 1
+    "correcta": 2
   },
   {
     "pregunta": "Tras ingresar a la guardia médica preocupados por la fiebre del bebé, ¿qué sucede comúnmente al entrar al consultorio?",
     "opciones": [
-      "La temperatura se eleva drásticamente",
       "El bebé se recupera milagrosamente, se pone a sonreír y a jugar como si nada",
-      "El médico decide postergar la atención",
-      "El bebé cae en un sueño profundo"
+      "La temperatura corporal del lactante alcanza su pico más elevado",
+      "El profesional de turno decide postergar la revisión de rutina",
+      "El bebé cae en un sueño profundo sobre la camilla de examen"
     ],
-    "correcta": 1
+    "correcta": 0
   },
   {
     "pregunta": "Según los mitos populares de embarazo, si la panza se nota con forma 'en punta', ¿qué sexo se le atribuye al bebé?",
     "opciones": [
+      "Nena (y si la estructura es redondeada, mellizos)",
       "Varón (y si es redonda, nena)",
-      "Nena (y si es en punta, mellizos)",
-      "Indica nacimiento múltiple",
-      "Determina que nacerá en época invernal"
+      "Indica con certeza un nacimiento de múltiples embriones",
+      "Determina que el parto se desencadenará en meses de invierno"
     ],
-    "correcta": 0
+    "correcta": 1
   },
   {
     "pregunta": "Si durante la lactancia surge una picazón intensa en la espalda en una zona inaccesible, ¿cuál es la maniobra de alivio?",
     "opciones": [
       "Rascarse disimuladamente contra el respaldo de la silla como un oso",
-      "Interrumpir la toma para ir a buscar un rascador",
-      "Soportar la molestia sin moverse durante una hora",
-      "Gritar pidiendo auxilio"
+      "Interrumpir la alimentación para ir en busca de un utensilio de madera",
+      "Soportar la molestia ininterrumpidamente sin moverse por una hora",
+      "Emitir un grito pidiendo auxilio a cualquier persona cerca"
     ],
     "correcta": 0
   },
   {
     "pregunta": "¿Qué objeto de la casa suele acumular suciedad pero se vuelve indispensable para que el bebé concilie el sueño?",
     "opciones": [
+      "Un sonajero rígido de plástico lavable",
+      "Una mordidera esterilizada de silicona líquida",
       "El 'trapito de apego' o mantita desgastada que ya cambió de color",
-      "Un sonajero de plástico rígido",
-      "Una mordidera esterilizada",
-      "Un cepillo para el cabello"
+      "Un cepillo para el cabello de cerdas sintéticas suaves"
     ],
-    "correcta": 0
+    "correcta": 2
   },
   {
-    "pregunta": "¿Cómo se realiza la 'medición táctil casera' para estimar si un bebé tiene temperatura antes de usar el termómetro?",
+    "pregunta": "¿Cómo reacciona mamá versus papá ante el primer chinchón en la frente del nene por tropezarse?",
     "opciones": [
-      "Apoyando la palma de la mano en la espalda",
-      "Apoyando los labios o la frente contra la frente o mejilla del bebé",
-      "Mirando la Palma de sus manos",
-      "Tocando la punta de la nariz"
+      "Mamá se ríe para quitarle drama y papá llama a la ambulancia",
+      "Mamá busca hielo, arnica y evalúa llamar al pediatra; papá le dice '¡un tropezón no es caída, dale que no pasa nada!'",
+      "Ambos padres quedan paralizados sin emitir reacción por varios minutos",
+      "Papá le coloca una curita en la zona de la rodilla para calmar la crisis"
     ],
     "correcta": 1
   },
   {
     "pregunta": "Ante la negativa de un nene a comer verduras, ¿cuál es el argumento persuasivo más recurrente?",
     "opciones": [
+      "Explicar con exactitud el aporte de minerales esenciales del plato",
       "Decirle que comer brócoli le dará 'súper poderes' o que son 'arbolitos de dinosaurio'",
-      "Detallar el contenido de vitaminas y minerales del plato",
-      "Advertirle sobre el crecimiento futuro",
-      "Decirle que las verduras son golosinas saladas"
+      "Advertirle sobre los problemas de desarrollo en la etapa adulta",
+      "Intentar convencerlo de que las verduras son golosinas saborizadas"
     ],
-    "correcta": 0
+    "correcta": 1
   },
   {
     "pregunta": "Al vestir a un bebé con ropa completamente blanca para un evento formal, ¿qué desenlace es casi seguro?",
     "opciones": [
-      "Que regrese a casa impecable",
+      "Que regrese a la casa con la indumentaria impecable",
+      "Que el tejido de la prenda sufra una alteración por el contacto solar",
       "Que la ropa se manche con papilla, barro o fugas de pañal antes de llegar",
-      "Que la vestimenta mantenga su blancura intacta",
-      "Que el sol altere la tela"
+      "Que los presentes elogien la blancura de la vestimenta todo el evento"
     ],
-    "correcta": 1
+    "correcta": 2
   },
   {
     "pregunta": "Frente al reclamo por la falta de sueño durante el primer año de crianza, ¿cuál es la respuesta irónica clásica de los abuelos?",
     "opciones": [
-      "¡Ofrecerse a cuidar al bebé durante todo el fin de semana!",
-      "¡'Ahora vas a saber lo que me hacías pasar a mí cuando eras chico!'",
-      "Recomendar una consulta médica de urgencia",
-      "Sugerir un cambio en la dieta nocturna"
+      "¡Ofrecerse entusiasmados a cuidar al bebé durante todo el fin de semana!",
+      "Recomendar una consulta pediátrica de urgencia para evaluar el insomnio",
+      "Sugerir un cambio radical en la dieta de alimentos nocturnos",
+      "¡'Ahora vas a saber lo que me hacías pasar a mí cuando eras chico!'"
     ],
-    "correcta": 1
+    "correcta": 3
   },
   {
     "pregunta": "Para entretener de forma segura a un bebé de 1 año en la cocina mientras se prepara la comida, ¿qué utensilio se le entrega?",
     "opciones": [
-      "Un recipiente de plástico y una cucharón de madera para hacer ruido",
-      "Un paquete de fideos secos abierto",
-      "Un rallador de verduras",
-      "Un cubierto de metal"
+      "Un recipiente de plástico y un cucharón de madera para hacer ruido",
+      "Un paquete de fideos secos parcialmente abierto",
+      "Un rallador de verduras de acero inoxidable sin filo",
+      "Un juego de cubiertos de mesa infantiles"
     ],
     "correcta": 0
   },
   {
     "pregunta": "¿Cuál es el riesgo principal de caminar descalzo a oscuras por la casa durante la madrugada?",
     "opciones": [
-      "Tropezar con una alfombra",
+      "Resbalarse sobre una alfombra de pasillo",
       "Pisar descalzo un bloque de plástico de construcción o un juguete con sonido",
-      "Golpearse contra las puertas",
-      "Resbalar con una media"
+      "Tropezar bruscamente contra el marco de las puertas",
+      "Perder el equilibrio por caminar usando medias de abrigo"
     ],
     "correcta": 1
   },
   {
     "pregunta": "Cuando en una visita familiar opinan que el llanto del bebé es 'porque la leche materna no lo llena', ¿qué sentimiento interno se genera?",
     "opciones": [
-      "Alegría por el consejo recibido",
+      "Alegría sincera por recibir un consejo de experiencia",
+      "Agradecimiento profundo por la preocupación demostrada",
       "Ganas profundas de contar hasta mil para mantener la calma",
-      "Agradecimiento por la observación",
-      "Indiferencia absoluta"
+      "Indiferencia absoluta frente al comentario recibido"
     ],
-    "correcta": 1
+    "correcta": 2
   },
   {
     "pregunta": "Para lograr que un chico acepte tomar un jarabe pediátrico feo, ¿cuál es la estrategia de camuflaje habitual?",
     "opciones": [
+      "Leerle el prospecto explicativo adjunto en la caja",
       "Mezclarlo disimuladamente en el yogur o presentarlo como un 'jugo de súper héroes'",
-      "Explicarle el prospecto médico",
-      "Tomarse una dosis el adulto para demostrar su sabor",
-      "Administrarlo mientras duerme"
+      "Ingerir una dosis el adulto primero para demostrar el buen sabor",
+      "Aprovechar las horas de sueño para dárselo con gotero en la boca"
     ],
-    "correcta": 0
+    "correcta": 1
   },
   {
     "pregunta": "En una salida a un restaurante con un nene de 2 años, ¿cuánto tiempo dura el estado de calma en la mesa?",
     "opciones": [
-      "Toda la cena sin interrupciones",
       "Entre 5 y 10 minutos, justo hasta que sirven la panera",
-      "Dos horas completas",
-      "Hasta el momento de pedir la cuenta"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "Según la creencia popular antigua, ¿por qué no debían cortarse las uñas a los recién nacidos durante sus primeros días?",
-    "opciones": [
-      "Porque les provocaba manchas en la piel",
-      "Porque existía el mito de que 'arruinaba la vista' (por eso se usaban manoplas)",
-      "Porque las uñas crecían más duras",
-      "Porque afectaba la forma de las manos"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "Cuando se justifica un día de berrinches diciendo 'debe ser por el cambio de luna', ¿a qué se está recurriendo?",
-    "opciones": [
-      "A un análisis de astronomía",
-      "A una explicación mística consuelo para entender el mal humor del nene",
-      "A un pronóstico del clima",
-      "A una teoría de pediatría científica"
-    ],
-    "correcta": 1
-  },
-  {
-    "pregunta": "¿Cómo se denomina a la capacidad de sostener al bebé, pasar la mopa y preparar el mate al mismo tiempo?",
-    "opciones": [
-      "Multitasking extremo en modo 'Supermadre / Superpadre'",
-      "Falta de planificación doméstica",
-      "Cuadro de estrés acelerado",
-      "Ejercicio aeróbico sin equipo"
+      "Toda la cena sin requerir ninguna intervención de distracción",
+      "Dos horas completas mientras observa el ambiente",
+      "Hasta que llega el momento de solicitar la cuenta al mozo"
     ],
     "correcta": 0
   },
   {
-    "pregunta": "Para lograr que un nene de 3 años se ponga las zapatillas sin protestar, ¿cuál es el juego de persuasión más efectivo?",
+    "pregunta": "¿Qué 'habilidad ninja' desarrolla un bebé de 1 año para escupir el remedio que le acaban de dar?",
     "opciones": [
-      "Desafiarlo a una 'carrera a ver quién se las pone primero'",
-      "Leerle el horario escolar",
-      "Llevar el calzado en la mochila para que vaya descalzo",
-      "Esperar pacientemente a que decida ponérselas"
+      "Mantener la medicina acumulada en los cachetes durante un minuto y expulsarla en un aerosol perfecto",
+      "Tragárselo sin pestañear y pedir una segunda dosis inmediatamente",
+      "Absorber el líquido por las encías sin dejar rastro en la boca",
+      "Traspasar la dosis al recipiente del perro sin ser visto"
     ],
     "correcta": 0
   },
   {
-    "pregunta": "En el lenguaje cotidiano, ¿por qué se impuso la palabra 'chupete' en lugar del término formal 'pacificador'?",
+    "pregunta": "Cuando un bebé de 1 año descubre los cajones bajos de la alacena, ¿cuál es su actividad favorita?",
     "opciones": [
-      "Because 'pacificador' suena a nombre de arma de película de acción",
-      "Porque 'chupete' es una palabra mucho más corta y natural en el habla popular",
-      "Porque 'pacificador' es una traducción en desuso",
-      "Todas las opciones anteriores explican el fenómeno"
+      "Ordenar los envases de plástico por tamaño y escala de color",
+      "Cerrar la puerta y colocar un traba cajones casero",
+      "Limpiar el polvo acumulado en las esquinas de la estantería",
+      "Vaciar absolutamente todos los tuppers y tapas en el suelo en menos de 30 segundos"
     ],
     "correcta": 3
   },
   {
-    "pregunta": "Cuando un bebé de 8 meses aprende a hacer el gesto de 'palmitas' con las manos, ¿cuál es el comportamiento familiar?",
+    "pregunta": "¿Cómo se denomina a la capacidad de sostener al bebé, pasar la mopa y preparar el mate al mismo tiempo?",
     "opciones": [
-      "Pedirle que repita el gesto ante cada familiar o vecino durante un mes entero",
-      "Inscribirlo en un certamen de destrezas",
-      "Tomar una fotografía y no volver a mencionarlo",
-      "Consultar inmediatamente con el especialista"
+      "Falta severa de planificación en las tareas domésticas",
+      "Multitasking extremo en modo 'Supermadre / Superpadre'",
+      "Cuadro de estrés acelerado que requiere descanso",
+      "Ejercicio aeróbico de rutina sin equipamiento"
     ],
-    "correcta": 0
+    "correcta": 1
   },
   {
     "pregunta": "Una vez que el bebé se durmió en la cuna, ¿cuál es la técnica de retirada de la habitación?",
     "opciones": [
       "Caminar como ninja en puntas de pie esquivando las tablas del piso que crujen",
-      "Salir corriendo rápidamente antes de que despierte",
-      "Cerrar la puerta con fuerza para aislar ruidos",
-      "Encender las luces del pasillo para no tropezar"
+      "Salir corriendo velozmente antes de que se despierte",
+      "Cerrar la puerta con firmeza para aislar todos los ruidos",
+      "Encender la luz del pasillo para no tropezar con juguetes"
     ],
     "correcta": 0
   },
   {
     "pregunta": "¿Qué frase resume el balance del primer año de crianza para la mayoría de los padres?",
     "opciones": [
-      "'Fue un proceso sumamente sencillo y relajado'",
+      "'Fue un proceso sumamente sencillo y relajado de principio a fin'",
+      "'Estamos listos para recibir a otro bebé inmediatamente el mes que viene'",
       "'Terminamos agotados y sin dormir, pero es la experiencia más linda de la vida'",
-      "'Estamos listos para tener otro bebé inmediatamente'",
-      "'Escribiremos un manual de instrucciones'"
+      "'Escribiremos un manual de instrucciones perfecto para futuros padres'"
     ],
-    "correcta": 1
+    "correcta": 2
   }
 ]
